@@ -1,0 +1,33 @@
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Snow.006
+Ka 1.000000 1.000000 1.000000
+Ks 0.224000 0.224000 0.224000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/CGI/Textures/Ground/Snow/snow_02_2k_jpg/snow_02_diff_2k.jpg
+map_Ns D:/CGI/Textures/Ground/Snow/snow_02_2k_jpg/snow_02_rough_2k.jpg
+map_Bump -bm 1.000000 D:/CGI/Textures/Ground/Snow/snow_02_2k_jpg/snow_02_nor_2k.jpg
+
+newmtl bark.007
+Ns 4.049587
+Ka 1.000000 1.000000 1.000000
+Kd 0.090838 0.023316 0.007597
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl leaves.007
+Ns 69.504128
+Ka 1.000000 1.000000 1.000000
+Kd 0.023297 0.147314 0.027061
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2

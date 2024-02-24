@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f017ea5eb76eea4a8efdcbb591d532a, type: 3}
+  m_Name: AK-74
+  m_EditorClassIdentifier: 
+  name: Ak-74
+  firerate: 600
+  bulletEnergy: 1461
+  bulletSpeed: 910
+  magazineCapacity: 30
+  currentAmmo: 1711
+  ammoInAmmoChamber: 0
+  reloadTime: 3.48
+  reloading: 0
